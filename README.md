@@ -1,6 +1,6 @@
 # First-Website
 
-![Screenshot](src/images/Screenshot)
+![Screenshot](src/images/Screenshot.jpg)
 
 ## Discription :
 This is a simple website created as a prototype to make an ecommerce application
